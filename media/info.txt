@@ -1,0 +1,3 @@
+The media in this directory is necessary for the project to work.
+  -Images
+  -Sounds
